@@ -1,0 +1,101 @@
+pizza_id,order_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
+1.0,1.0,hawaiian_m,1.0,1/1/2015,11:38:36,13.25,13.25,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+2.0,2.0,classic_dlx_m,1.0,1/1/2015,11:57:40,16.0,16.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+3.0,2.0,five_cheese_l,1.0,1/1/2015,11:57:40,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
+4.0,2.0,ital_supr_l,1.0,1/1/2015,11:57:40,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+5.0,2.0,mexicana_m,1.0,1/1/2015,11:57:40,16.0,16.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+6.0,2.0,thai_ckn_l,1.0,1/1/2015,11:57:40,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+7.0,3.0,ital_supr_m,1.0,1/1/2015,12:12:28,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+8.0,3.0,prsc_argla_l,1.0,1/1/2015,12:12:28,20.75,20.75,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+9.0,4.0,ital_supr_m,1.0,1/1/2015,12:16:31,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+10.0,5.0,ital_supr_m,1.0,1/1/2015,12:21:30,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+11.0,6.0,bbq_ckn_s,1.0,1/1/2015,12:29:36,12.75,12.75,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+12.0,6.0,the_greek_s,1.0,1/1/2015,12:29:36,12.0,12.0,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
+13.0,7.0,spinach_supr_s,1.0,1/1/2015,12:50:37,12.5,12.5,S,Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza
+14.0,8.0,spinach_supr_s,1.0,1/1/2015,12:51:37,12.5,12.5,S,Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza
+15.0,9.0,classic_dlx_s,1.0,1/1/2015,12:52:01,12.0,12.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+16.0,9.0,green_garden_s,1.0,1/1/2015,12:52:01,12.0,12.0,S,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
+17.0,9.0,ital_cpcllo_l,1.0,1/1/2015,12:52:01,20.5,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+18.0,9.0,ital_supr_l,1.0,1/1/2015,12:52:01,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+19.0,9.0,ital_supr_s,1.0,1/1/2015,12:52:01,12.5,12.5,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+20.0,9.0,mexicana_s,1.0,1/1/2015,12:52:01,12.0,12.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+21.0,9.0,spicy_ital_l,1.0,1/1/2015,12:52:01,20.75,20.75,L,Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",The Spicy Italian Pizza
+22.0,9.0,spin_pesto_l,1.0,1/1/2015,12:52:01,20.75,20.75,L,Veggie,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",The Spinach Pesto Pizza
+23.0,9.0,veggie_veg_s,1.0,1/1/2015,12:52:01,12.0,12.0,S,Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza
+24.0,10.0,mexicana_l,1.0,1/1/2015,13:00:15,20.25,20.25,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+25.0,10.0,southw_ckn_l,1.0,1/1/2015,13:00:15,20.75,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
+26.0,11.0,bbq_ckn_l,1.0,1/1/2015,13:02:59,20.75,20.75,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+27.0,11.0,cali_ckn_l,1.0,1/1/2015,13:02:59,20.75,20.75,L,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
+28.0,11.0,cali_ckn_m,1.0,1/1/2015,13:02:59,16.75,16.75,M,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
+29.0,11.0,pepperoni_l,1.0,1/1/2015,13:02:59,15.25,15.25,L,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
+30.0,12.0,cali_ckn_l,1.0,1/1/2015,13:04:41,20.75,20.75,L,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
+31.0,12.0,cali_ckn_s,1.0,1/1/2015,13:04:41,12.75,12.75,S,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
+32.0,12.0,ckn_pesto_l,1.0,1/1/2015,13:04:41,20.75,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",The Chicken Pesto Pizza
+33.0,12.0,ital_supr_m,1.0,1/1/2015,13:04:41,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+34.0,13.0,mexicana_l,1.0,1/1/2015,13:11:55,20.25,20.25,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+35.0,14.0,the_greek_s,1.0,1/1/2015,13:14:19,12.0,12.0,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
+36.0,15.0,big_meat_s,1.0,1/1/2015,13:33:00,12.0,12.0,S,Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",The Big Meat Pizza
+37.0,15.0,five_cheese_l,1.0,1/1/2015,13:33:00,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
+38.0,15.0,soppressata_l,1.0,1/1/2015,13:33:00,20.75,20.75,L,Supreme,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",The Soppressata Pizza
+39.0,15.0,the_greek_s,1.0,1/1/2015,13:33:00,12.0,12.0,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
+40.0,16.0,four_cheese_l,1.0,1/1/2015,13:34:07,17.95,17.95,L,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
+41.0,16.0,napolitana_s,1.0,1/1/2015,13:34:07,12.0,12.0,S,Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza
+42.0,16.0,thai_ckn_l,1.0,1/1/2015,13:34:07,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+43.0,17.0,bbq_ckn_l,1.0,1/1/2015,13:53:00,20.75,20.75,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+44.0,17.0,calabrese_m,1.0,1/1/2015,13:53:00,16.25,16.25,M,Supreme,"?duja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",The Calabrese Pizza
+45.0,17.0,five_cheese_l,1.0,1/1/2015,13:53:00,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
+46.0,17.0,four_cheese_m,1.0,1/1/2015,13:53:00,14.75,14.75,M,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
+47.0,17.0,ital_supr_m,1.0,1/1/2015,13:53:00,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+48.0,17.0,ital_veggie_s,1.0,1/1/2015,13:53:00,12.75,12.75,S,Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",The Italian Vegetables Pizza
+49.0,17.0,mediterraneo_m,2.0,1/1/2015,13:53:00,16.0,32.0,M,Veggie,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",The Mediterranean Pizza
+50.0,17.0,mexicana_l,1.0,1/1/2015,13:53:00,20.25,20.25,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+51.0,17.0,peppr_salami_s,1.0,1/1/2015,13:53:00,12.5,12.5,S,Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",The Pepper Salami Pizza
+52.0,17.0,spinach_fet_l,1.0,1/1/2015,13:53:00,20.25,20.25,L,Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza
+53.0,18.0,napolitana_l,1.0,1/1/2015,13:57:08,20.5,20.5,L,Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza
+54.0,19.0,ital_cpcllo_l,1.0,1/1/2015,13:59:09,20.5,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+55.0,19.0,sicilian_l,1.0,1/1/2015,13:59:09,20.25,20.25,L,Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza
+56.0,20.0,big_meat_s,1.0,1/1/2015,14:03:08,12.0,12.0,S,Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",The Big Meat Pizza
+57.0,20.0,five_cheese_l,1.0,1/1/2015,14:03:08,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
+58.0,21.0,ital_cpcllo_l,1.0,1/1/2015,14:14:29,20.5,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+59.0,22.0,five_cheese_l,1.0,1/1/2015,14:16:26,18.5,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
+60.0,22.0,ital_cpcllo_m,1.0,1/1/2015,14:16:26,16.0,16.0,M,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+61.0,22.0,southw_ckn_l,1.0,1/1/2015,14:16:26,20.75,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
+62.0,23.0,southw_ckn_s,1.0,1/1/2015,14:19:03,12.75,12.75,S,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
+63.0,24.0,bbq_ckn_m,1.0,1/1/2015,14:23:01,16.75,16.75,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+64.0,24.0,ital_cpcllo_m,1.0,1/1/2015,14:23:01,16.0,16.0,M,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+65.0,24.0,pepperoni_m,1.0,1/1/2015,14:23:01,12.5,12.5,M,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
+66.0,24.0,prsc_argla_s,1.0,1/1/2015,14:23:01,12.5,12.5,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+67.0,25.0,sicilian_m,1.0,1/1/2015,14:44:44,16.25,16.25,M,Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza
+68.0,25.0,thai_ckn_l,1.0,1/1/2015,14:44:44,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+69.0,26.0,classic_dlx_s,1.0,1/1/2015,14:54:26,12.0,12.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+70.0,26.0,veggie_veg_l,1.0,1/1/2015,14:54:26,20.25,20.25,L,Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza
+71.0,27.0,bbq_ckn_l,1.0,1/1/2015,15:11:17,20.75,20.75,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+72.0,27.0,classic_dlx_m,1.0,1/1/2015,15:11:17,16.0,16.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+73.0,27.0,spinach_fet_l,1.0,1/1/2015,15:11:17,20.25,20.25,L,Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza
+74.0,28.0,ckn_alfredo_s,1.0,1/1/2015,15:35:46,12.75,12.75,S,Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",The Chicken Alfredo Pizza
+75.0,29.0,green_garden_s,1.0,1/1/2015,15:41:01,12.0,12.0,S,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
+76.0,30.0,thai_ckn_l,1.0,1/1/2015,15:41:25,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+77.0,31.0,mexicana_m,1.0,1/1/2015,15:50:18,16.0,16.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+78.0,31.0,pepperoni_s,1.0,1/1/2015,15:50:18,9.75,9.75,S,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
+79.0,32.0,big_meat_s,1.0,1/1/2015,15:53:18,12.0,12.0,S,Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",The Big Meat Pizza
+80.0,32.0,green_garden_l,1.0,1/1/2015,15:53:18,20.25,20.25,L,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
+81.0,32.0,ital_cpcllo_l,1.0,1/1/2015,15:53:18,20.5,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+82.0,32.0,ital_supr_m,1.0,1/1/2015,15:53:18,16.5,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+83.0,33.0,bbq_ckn_l,1.0,1/1/2015,15:54:08,20.75,20.75,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+84.0,33.0,green_garden_s,1.0,1/1/2015,15:54:08,12.0,12.0,S,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
+85.0,34.0,the_greek_s,1.0,1/1/2015,16:21:21,12.0,12.0,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
+86.0,35.0,green_garden_m,1.0,1/1/2015,16:32:04,16.0,16.0,M,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
+87.0,35.0,pep_msh_pep_l,1.0,1/1/2015,16:32:04,17.5,17.5,L,Classic,"Pepperoni, Mushrooms, Green Peppers","The Pepperoni, Mushroom, and Peppers Pizza"
+88.0,35.0,pepperoni_m,1.0,1/1/2015,16:32:04,12.5,12.5,M,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
+89.0,35.0,thai_ckn_l,1.0,1/1/2015,16:32:04,20.75,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
+90.0,36.0,bbq_ckn_m,1.0,1/1/2015,16:54:09,16.75,16.75,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+91.0,36.0,classic_dlx_m,1.0,1/1/2015,16:54:09,16.0,16.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+92.0,37.0,ital_supr_l,1.0,1/1/2015,16:56:09,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+93.0,37.0,mexicana_l,1.0,1/1/2015,16:56:09,20.25,20.25,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+94.0,38.0,hawaiian_s,1.0,1/1/2015,17:03:00,10.5,10.5,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+95.0,38.0,ital_cpcllo_l,1.0,1/1/2015,17:03:00,20.5,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
+96.0,39.0,ital_supr_l,1.0,1/1/2015,17:07:23,20.75,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+97.0,40.0,four_cheese_l,1.0,1/1/2015,17:14:36,17.95,17.95,L,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
+98.0,40.0,southw_ckn_s,1.0,1/1/2015,17:14:36,12.75,12.75,S,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
+99.0,41.0,four_cheese_m,1.0,1/1/2015,17:15:20,14.75,14.75,M,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
+100.0,41.0,green_garden_s,1.0,1/1/2015,17:15:20,12.0,12.0,S,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
